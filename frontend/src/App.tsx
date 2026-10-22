@@ -66,8 +66,8 @@ function InventoryPage() {
 }
 
 function TreeMapPage() {
-  const [search, setSearch] = useState('');
-  const [ward, setWard] = useState('');
+  const [search] = useState('');
+  const [ward] = useState('');
 
   return (
     <AppLayout>
@@ -384,63 +384,6 @@ function SettingsPage() {
   );
 }
 
-function FeaturePage({
-  title,
-  subtitle,
-  icon,
-  description,
-  items,
-}: {
-  title: string;
-  subtitle: string;
-  icon: string;
-  description: string;
-  items: string[];
-}) {
-  return (
-    <AppLayout>
-      <div className="mx-auto max-w-6xl space-y-6">
-        <section className="overflow-hidden rounded-3xl bg-gradient-to-r from-[#103b2d] via-emerald-800 to-[#52734d] p-7 text-white shadow-sm sm:p-10">
-          <div className="flex items-start gap-4">
-            <div className="flex h-14 w-14 shrink-0 items-center justify-center rounded-2xl bg-white/15 text-3xl">
-              {icon}
-            </div>
-            <div>
-              <p className="text-sm font-medium text-emerald-100">
-                URBAN GREEN MANAGEMENT
-              </p>
-              <h1 className="mt-2 text-3xl font-extrabold">{title}</h1>
-              <p className="mt-2 text-emerald-50">{subtitle}</p>
-            </div>
-          </div>
-        </section>
-
-        <section className="rounded-3xl border border-slate-200 bg-white p-6 shadow-sm sm:p-8">
-          <h2 className="text-xl font-bold text-slate-900">
-            What you can explore
-          </h2>
-          <p className="mt-2 leading-7 text-slate-600">{description}</p>
-
-          <div className="mt-6 grid gap-4 sm:grid-cols-2">
-            {items.map((item, index) => (
-              <div
-                key={item}
-                className="flex gap-3 rounded-2xl border border-emerald-100 bg-emerald-50/60 p-5"
-              >
-                <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-xl bg-emerald-100 font-bold text-emerald-800">
-                  {index + 1}
-                </span>
-                <p className="pt-1 font-medium leading-6 text-slate-700">
-                  {item}
-                </p>
-              </div>
-            ))}
-          </div>
-        </section>
-      </div>
-    </AppLayout>
-  );
-}
 
 function GreenInsightsPage() {
   return (
