@@ -1,0 +1,1763 @@
+{
+  "file": "C:\\Users\\ssuwe\\Downloads\\urban-green-management-system\\urban-green-management-system\\backend\\data\\raw\\bbmp_tree_census_july_2026.geojson",
+  "sizeBytes": 238618481,
+  "featureCount": 702109,
+  "featureTypes": {
+    "Feature": 702109
+  },
+  "featuresWithoutProperties": 0,
+  "geometry": {
+    "types": {
+      "Point": 702109
+    },
+    "missing": 0,
+    "badShape": 0,
+    "nonNumeric": 0,
+    "outOfRange": 0,
+    "nullIsland": 0,
+    "validPoints": 702109,
+    "likelySwapped": 0,
+    "outsideBbox": 0,
+    "outsideExamples": [],
+    "dims": {
+      "2": 702109
+    },
+    "minLon": 77.4601552,
+    "maxLon": 77.7756399,
+    "minLat": 12.8493939,
+    "maxLat": 13.141673
+  },
+  "fields": [
+    {
+      "field": "WardNumber",
+      "present": 702109,
+      "absent": 0,
+      "null": 0,
+      "emptyString": 0,
+      "placeholderLike": 0,
+      "types": {
+        "string": 702109
+      },
+      "numericLikeStrings": 702109,
+      "maxStringLength": 3,
+      "distinctCount": 144,
+      "values": [
+        [
+          "196",
+          45831
+        ],
+        [
+          "198",
+          33009
+        ],
+        [
+          "174",
+          26928
+        ],
+        [
+          "130",
+          23779
+        ],
+        [
+          "5",
+          23165
+        ],
+        [
+          "160",
+          22060
+        ],
+        [
+          "150",
+          21692
+        ],
+        [
+          "129",
+          21690
+        ],
+        [
+          "9",
+          19013
+        ],
+        [
+          "176",
+          16578
+        ],
+        [
+          "173",
+          16065
+        ],
+        [
+          "153",
+          14037
+        ],
+        [
+          "85",
+          13044
+        ],
+        [
+          "3",
+          12284
+        ],
+        [
+          "12",
+          11931
+        ],
+        [
+          "6",
+          11629
+        ],
+        [
+          "50",
+          11138
+        ],
+        [
+          "51",
+          10649
+        ],
+        [
+          "168",
+          9903
+        ],
+        [
+          "184",
+          9864
+        ],
+        [
+          "27",
+          9691
+        ],
+        [
+          "7",
+          9568
+        ],
+        [
+          "14",
+          9304
+        ],
+        [
+          "165",
+          9141
+        ],
+        [
+          "155",
+          8859
+        ],
+        [
+          "159",
+          8823
+        ],
+        [
+          "151",
+          8334
+        ],
+        [
+          "17",
+          8057
+        ],
+        [
+          "197",
+          8040
+        ],
+        [
+          "8",
+          7520
+        ],
+        [
+          "52",
+          7217
+        ],
+        [
+          "162",
+          6527
+        ],
+        [
+          "53",
+          6411
+        ],
+        [
+          "181",
+          6333
+        ],
+        [
+          "179",
+          6267
+        ],
+        [
+          "84",
+          6232
+        ],
+        [
+          "182",
+          6200
+        ],
+        [
+          "80",
+          6169
+        ],
+        [
+          "132",
+          5695
+        ],
+        [
+          "149",
+          5521
+        ],
+        [
+          "81",
+          5395
+        ],
+        [
+          "112",
+          5082
+        ],
+        [
+          "194",
+          4650
+        ],
+        [
+          "164",
+          4601
+        ],
+        [
+          "2",
+          4577
+        ],
+        [
+          "163",
+          4299
+        ],
+        [
+          "11",
+          4088
+        ],
+        [
+          "178",
+          4075
+        ],
+        [
+          "25",
+          3934
+        ],
+        [
+          "126",
+          3853
+        ],
+        [
+          "110",
+          3662
+        ],
+        [
+          "18",
+          3397
+        ],
+        [
+          "183",
+          3368
+        ],
+        [
+          "167",
+          3335
+        ],
+        [
+          "58",
+          3330
+        ],
+        [
+          "140",
+          3319
+        ],
+        [
+          "148",
+          3064
+        ],
+        [
+          "54",
+          2983
+        ],
+        [
+          "10",
+          2806
+        ],
+        [
+          "82",
+          2804
+        ],
+        [
+          "133",
+          2681
+        ],
+        [
+          "88",
+          2680
+        ],
+        [
+          "111",
+          2668
+        ],
+        [
+          "83",
+          2608
+        ],
+        [
+          "142",
+          2575
+        ],
+        [
+          "4",
+          2517
+        ],
+        [
+          "141",
+          2513
+        ],
+        [
+          "188",
+          2512
+        ],
+        [
+          "138",
+          2492
+        ],
+        [
+          "166",
+          2408
+        ],
+        [
+          "156",
+          2386
+        ],
+        [
+          "177",
+          2350
+        ],
+        [
+          "13",
+          2342
+        ],
+        [
+          "24",
+          2317
+        ],
+        [
+          "157",
+          2295
+        ],
+        [
+          "172",
+          2225
+        ],
+        [
+          "1",
+          2116
+        ],
+        [
+          "57",
+          2033
+        ],
+        [
+          "193",
+          2028
+        ],
+        [
+          "170",
+          1988
+        ],
+        [
+          "90",
+          1854
+        ],
+        [
+          "114",
+          1793
+        ],
+        [
+          "123",
+          1778
+        ],
+        [
+          "78",
+          1747
+        ],
+        [
+          "113",
+          1690
+        ],
+        [
+          "118",
+          1645
+        ],
+        [
+          "119",
+          1628
+        ],
+        [
+          "136",
+          1620
+        ],
+        [
+          "152",
+          1610
+        ],
+        [
+          "195",
+          1585
+        ],
+        [
+          "154",
+          1551
+        ],
+        [
+          "125",
+          1509
+        ],
+        [
+          "55",
+          1492
+        ],
+        [
+          "144",
+          1480
+        ],
+        [
+          "35",
+          1467
+        ],
+        [
+          "145",
+          1466
+        ],
+        [
+          "143",
+          1422
+        ],
+        [
+          "137",
+          1384
+        ],
+        [
+          "87",
+          1352
+        ],
+        [
+          "117",
+          1348
+        ],
+        [
+          "93",
+          1340
+        ],
+        [
+          "94",
+          1316
+        ],
+        [
+          "89",
+          1250
+        ],
+        [
+          "186",
+          1167
+        ],
+        [
+          "115",
+          1129
+        ],
+        [
+          "169",
+          1122
+        ],
+        [
+          "79",
+          1096
+        ],
+        [
+          "63",
+          1053
+        ],
+        [
+          "60",
+          1038
+        ],
+        [
+          "124",
+          1030
+        ],
+        [
+          "64",
+          981
+        ],
+        [
+          "59",
+          976
+        ],
+        [
+          "86",
+          911
+        ],
+        [
+          "147",
+          810
+        ],
+        [
+          "43",
+          782
+        ],
+        [
+          "56",
+          714
+        ],
+        [
+          "128",
+          701
+        ],
+        [
+          "26",
+          583
+        ],
+        [
+          "16",
+          578
+        ],
+        [
+          "187",
+          561
+        ],
+        [
+          "146",
+          342
+        ],
+        [
+          "61",
+          309
+        ],
+        [
+          "96",
+          298
+        ],
+        [
+          "77",
+          270
+        ],
+        [
+          "73",
+          257
+        ],
+        [
+          "104",
+          216
+        ],
+        [
+          "180",
+          214
+        ],
+        [
+          "62",
+          199
+        ],
+        [
+          "171",
+          193
+        ],
+        [
+          "97",
+          191
+        ],
+        [
+          "192",
+          109
+        ],
+        [
+          "122",
+          62
+        ],
+        [
+          "92",
+          53
+        ],
+        [
+          "120",
+          50
+        ],
+        [
+          "116",
+          49
+        ],
+        [
+          "91",
+          47
+        ],
+        [
+          "109",
+          40
+        ],
+        [
+          "121",
+          34
+        ],
+        [
+          "95",
+          30
+        ],
+        [
+          "139",
+          18
+        ],
+        [
+          "135",
+          12
+        ],
+        [
+          "45",
+          1
+        ],
+        [
+          "185",
+          1
+        ],
+        [
+          "105",
+          1
+        ]
+      ]
+    },
+    {
+      "field": "OBJECTID",
+      "present": 702109,
+      "absent": 0,
+      "null": 0,
+      "emptyString": 0,
+      "placeholderLike": 0,
+      "types": {
+        "number": 702109
+      },
+      "numeric": {
+        "count": 702109,
+        "min": 9,
+        "max": 729839,
+        "mean": 368133.65879656863
+      },
+      "distinctCountAtLeast": 301,
+      "highCardinality": true,
+      "examples": [
+        "9",
+        "25",
+        "26",
+        "27",
+        "29"
+      ]
+    },
+    {
+      "field": "TreeName",
+      "present": 702109,
+      "absent": 0,
+      "null": 0,
+      "emptyString": 0,
+      "placeholderLike": 0,
+      "types": {
+        "string": 702109
+      },
+      "maxStringLength": 64,
+      "distinctCount": 236,
+      "values": [
+        [
+          "Others",
+          170505
+        ],
+        [
+          "Pongamia Pinnata (L.) Pierre",
+          133453
+        ],
+        [
+          "Swietenia Mahagoni (L.) Jacq.",
+          36188
+        ],
+        [
+          "Tabebuia Rosea (Bertol) Dc.",
+          30544
+        ],
+        [
+          "Saraca Asoca (Roxb.) De Wilde",
+          19792
+        ],
+        [
+          "Ptychosperma Macarthuri Nichols",
+          18058
+        ],
+        [
+          "Markhamia Lutea (Benth.) K.Schum",
+          14840
+        ],
+        [
+          "Terminalia Catappa L",
+          14054
+        ],
+        [
+          "Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne",
+          13450
+        ],
+        [
+          "Spathodea Campanulata P. Beauv",
+          12589
+        ],
+        [
+          "Samanea Saman (Jacq.) Merr.",
+          12066
+        ],
+        [
+          "Syzygium Cumini (L.) Skeels",
+          10357
+        ],
+        [
+          "Grevillea Robusta Cunn. Ex R. Br.",
+          10052
+        ],
+        [
+          "Cocos Nucifera L.",
+          9998
+        ],
+        [
+          "Roystonea Regia (H.B.K) O. F. Cook",
+          9872
+        ],
+        [
+          "Azadirachta Indica A. Juss.",
+          8484
+        ],
+        [
+          "Mangifera Indica L.",
+          8355
+        ],
+        [
+          "Thespesia Populnea",
+          7900
+        ],
+        [
+          "Delonix Regia (Bojer Ex Hook.) Raf.",
+          6233
+        ],
+        [
+          "Millingtonia Hortensis L.F",
+          6196
+        ],
+        [
+          "Wrightia Tinctoria (Roxb.) R. Br",
+          6033
+        ],
+        [
+          "Muntingia Calabura L.",
+          5871
+        ],
+        [
+          "Acacia Auriculiformis Cunn. Ex Benth",
+          5530
+        ],
+        [
+          "Eucalyptus Tereticornis Sm.",
+          5415
+        ],
+        [
+          "Tectona Grandis L.F",
+          5363
+        ],
+        [
+          "Ficus Benghalensis L.",
+          5066
+        ],
+        [
+          "Ficus Religiosa L.",
+          5023
+        ],
+        [
+          "Michelia Longifolia Blume",
+          4799
+        ],
+        [
+          "Ficus Racemosa L.",
+          4746
+        ],
+        [
+          "Artocarpus Heterophyllus Lam.",
+          4434
+        ],
+        [
+          "Ficus Benjamina L.",
+          3787
+        ],
+        [
+          "Michelia Champaca L",
+          3766
+        ],
+        [
+          "Lagerstroemia Speciosa (L.) Pers",
+          3752
+        ],
+        [
+          "Hydristele Wendlandiana (C. Moore & F. Muell.) H. Wendl. & Drude",
+          3611
+        ],
+        [
+          "Leucaena Latisiliqua (L.) Gillis",
+          3577
+        ],
+        [
+          "Jacaranda Acutifolia Humb. & Bonp",
+          3109
+        ],
+        [
+          "Caryota Mitis Lour.",
+          3035
+        ],
+        [
+          "Mimusops Elengi L.",
+          2966
+        ],
+        [
+          "Bauhinia Variegata L.",
+          2730
+        ],
+        [
+          "Livistona Chinensis (Jacq.) R. Br. Ex Mart.",
+          2521
+        ],
+        [
+          "Majidea Zanguebarica Oliv.",
+          2204
+        ],
+        [
+          "Terminalia Arjuna (Roxb. Ex Dc.) Wight & Arn.",
+          2129
+        ],
+        [
+          "Bauhinia Racemosa Lam",
+          2062
+        ],
+        [
+          "Bauhinia Purpurea L.",
+          2039
+        ],
+        [
+          "Acacia Nilotica (L.) Del. Subsp. Indica (Benth.) Brenan",
+          1749
+        ],
+        [
+          "Averrhoa Carambola L.",
+          1484
+        ],
+        [
+          "Neolomarckia",
+          1471
+        ],
+        [
+          "Plumeria Rubra L. Forma Tricolor",
+          1437
+        ],
+        [
+          "Simarouba Glauca Dc.",
+          1433
+        ],
+        [
+          "Pterocarpus Marsupium Roxb",
+          1209
+        ],
+        [
+          "Manilkara Zapota (L.) P. Royen",
+          1183
+        ],
+        [
+          "Psidium Guajava L.",
+          1108
+        ],
+        [
+          "Tabebuia Chrysotricha (Mart. Ex Dc.) Standl",
+          1046
+        ],
+        [
+          "Thespesia Populnea (L.) Sol. Ex Corr. Serr",
+          1021
+        ],
+        [
+          "Techoma Stans",
+          1020
+        ],
+        [
+          "Araucaria Columnaris",
+          1008
+        ],
+        [
+          "Polyalthia Longifolia (Sonn.) Thwaites",
+          1004
+        ],
+        [
+          "Khaya Senegalensis (Desr.) A. Juss.",
+          988
+        ],
+        [
+          "Gmelina Arborea Roxb.",
+          928
+        ],
+        [
+          "Bauhinia Variegata L. Var. Candida Voigt.",
+          896
+        ],
+        [
+          "Annona Squamosa L",
+          878
+        ],
+        [
+          "Tabebuia Aurea (Manso) Benth. & Hook.F. Ex S. Moore",
+          835
+        ],
+        [
+          "Toona Ciliata M. Roeme",
+          826
+        ],
+        [
+          "Phoenix Sylvestris (L.) Roxb.",
+          778
+        ],
+        [
+          "Madhuca Indica J. Gmelin",
+          762
+        ],
+        [
+          "Emblica Officinalis Gaertn.",
+          761
+        ],
+        [
+          "Prosopis Juliflora (Sw.) Dc.",
+          747
+        ],
+        [
+          "Kigelia Africana (Lam.) Benth",
+          713
+        ],
+        [
+          "Callistemon Viminalis (Soland. Ex Gaertn.) G. Don",
+          712
+        ],
+        [
+          "Enterolobium Contortisiliqum (Vell.)",
+          702
+        ],
+        [
+          "Sesbania Grandiflora (L.) Poiret",
+          613
+        ],
+        [
+          "Ceiba Speciosa (A. St. Hil.) Ravenna",
+          604
+        ],
+        [
+          "Phyllanthus Polyphykkus Wild",
+          590
+        ],
+        [
+          "Phyllanthus Acidus (L.) Skeels",
+          582
+        ],
+        [
+          "Cassia Roxburghii Dc.",
+          547
+        ],
+        [
+          "Broussonetia Papyrifera Vent",
+          546
+        ],
+        [
+          "Couroupita Guianensis Abul.",
+          542
+        ],
+        [
+          "Tamarindus Indica L.",
+          541
+        ],
+        [
+          "Talauma Mutabilis Bl.",
+          533
+        ],
+        [
+          "Pritchardia Pacifica Seem. & H. Wendl.",
+          531
+        ],
+        [
+          "Garcinia Indica (Thouars) Choisy",
+          526
+        ],
+        [
+          "Albizia Lebbeck (L.) Benth.",
+          506
+        ],
+        [
+          "Joannesia Princeps Vell",
+          490
+        ],
+        [
+          "Pithecellobium Dulce (Roxb.) Benth.",
+          482
+        ],
+        [
+          "Cassia Moschata Kunth",
+          478
+        ],
+        [
+          "Melia Dubia Cav",
+          473
+        ],
+        [
+          "Alstonia Macrophylla Wall. Ex Dc.",
+          471
+        ],
+        [
+          "Calamus Prasinus Lak. & Renuka",
+          467
+        ],
+        [
+          "Cassia Javanica L.",
+          464
+        ],
+        [
+          "Syagrus Romanzoffianum (Cham)",
+          452
+        ],
+        [
+          "Santalum Album L",
+          419
+        ],
+        [
+          "Thevetia Peruviana (Pers.) Merr.",
+          414
+        ],
+        [
+          "Eugenia Uniflora L",
+          398
+        ],
+        [
+          "Parkia Biglandulosa Wt. & Arn.",
+          396
+        ],
+        [
+          "Syzygium Laetum (Buch. -Ham.)",
+          386
+        ],
+        [
+          "Plumaria alba",
+          386
+        ],
+        [
+          "Moringa Oleifera Lam.",
+          382
+        ],
+        [
+          "Erythrina Umbrosa Kunth",
+          377
+        ],
+        [
+          "Ailanthus Triphysa (Dennst.) Alston",
+          360
+        ],
+        [
+          "Caesalpinia Ferrea Mart. Ex Tul.",
+          351
+        ],
+        [
+          "Tabebuia Impetiginosa (Mart. Ex Dc.) Standl.",
+          346
+        ],
+        [
+          "Cassia Fistula L.",
+          333
+        ],
+        [
+          "Peltophorum Africanum Sond.",
+          332
+        ],
+        [
+          "Melaleuca Bracteate F. Muell.",
+          327
+        ],
+        [
+          "Clusia Rosea Jacq.",
+          325
+        ],
+        [
+          "Bauhinia Galpinii N.E. Br.",
+          314
+        ],
+        [
+          "Filicium Decipiens (Wt. & Arn.)",
+          312
+        ],
+        [
+          "Swietenia Macrophylla King",
+          309
+        ],
+        [
+          "Acacia Leucophloea (Roxb.) Wild",
+          301
+        ],
+        [
+          "Tabernaemontana Divericata L. R. Br. Ex Roem. & Schult.",
+          284
+        ],
+        [
+          "Gliricidia Sepium",
+          280
+        ],
+        [
+          "Syzygium Nervosum Dc",
+          279
+        ],
+        [
+          "Ziziphus Mauritiana Lam",
+          276
+        ],
+        [
+          "Cassia Grandis L.F",
+          274
+        ],
+        [
+          "Persea Americana Mille",
+          269
+        ],
+        [
+          "Calophyllum Inophyllum L",
+          260
+        ],
+        [
+          "Rhapis Excelsa Henry",
+          251
+        ],
+        [
+          "Plumeri Obtusa L. Var. Obtusa",
+          245
+        ],
+        [
+          "Cassia Fistula",
+          243
+        ],
+        [
+          "Brassaia Actinophylla Endl. Var. Capitata Clarke",
+          240
+        ],
+        [
+          "Ochroma Lagopus Sw",
+          227
+        ],
+        [
+          "Malpighia Glabra L.",
+          224
+        ],
+        [
+          "Erythroxylum Monogynum Roxb.",
+          218
+        ],
+        [
+          "Flacouratia Inermis Roxb.",
+          212
+        ],
+        [
+          "Caryota Urens L",
+          208
+        ],
+        [
+          "Artocarpus Hirsutus Lam.",
+          205
+        ],
+        [
+          "Murraya Koenigii (L.) Spreng.",
+          204
+        ],
+        [
+          "Plumeria Rubra L. Forma Acutifolia",
+          198
+        ],
+        [
+          "Dypsis Lutescens (Wendl.) Beentze & Dransfield",
+          192
+        ],
+        [
+          "Bauhinia Blakeana Dunn",
+          190
+        ],
+        [
+          "Tipuana Tipu (Benth.) Kuntze",
+          187
+        ],
+        [
+          "Phoenix Rupicola T. Anders",
+          182
+        ],
+        [
+          "Anacardium Occidentale L.",
+          179
+        ],
+        [
+          "Bombax Malabaricum Dc",
+          177
+        ],
+        [
+          "Butea Monosperma (Lam.) Taub",
+          172
+        ],
+        [
+          "Sapium Sebiferum (L.) Roxb.",
+          171
+        ],
+        [
+          "Diospyros Cordifolia Roxb.",
+          168
+        ],
+        [
+          "Spondias Pinnata (L.F.) Kurz",
+          165
+        ],
+        [
+          "Crescentia Cujete L.",
+          158
+        ],
+        [
+          "Annona Reticulata L.",
+          158
+        ],
+        [
+          "Artocarpus Altitilis (Park.) Fosb.",
+          140
+        ],
+        [
+          "Broussonetia Luzonica Bureau",
+          139
+        ],
+        [
+          "Vitex Altissima L.F",
+          139
+        ],
+        [
+          "Aegle Marmelos (L.) Corr. Serr.",
+          134
+        ],
+        [
+          "Cordia Wallichii G. Don",
+          133
+        ],
+        [
+          "Pseudobombax Ellipticum (H.B.K.) Dug",
+          124
+        ],
+        [
+          "Erythina Standleyana Krukoff",
+          119
+        ],
+        [
+          "Melia Azedarach L",
+          118
+        ],
+        [
+          "Magnolia Grandiflora L",
+          115
+        ],
+        [
+          "Ceiba Pentandra (L.) Gaertn.",
+          114
+        ],
+        [
+          "Plumeria Obtusa L. Var. Sericiflora",
+          112
+        ],
+        [
+          "Firmiana Colorata (Roxb.) R. Br.",
+          110
+        ],
+        [
+          "Ficus Pandurata Hance",
+          103
+        ],
+        [
+          "Dalbergia Latifolia Roxb.",
+          96
+        ],
+        [
+          "Cedrela Odorata L",
+          95
+        ],
+        [
+          "Dalbergia Sissoo Roxb.",
+          92
+        ],
+        [
+          "Adenanthera Pavonina L.",
+          90
+        ],
+        [
+          "Cirtus Grandis (L.) Osbeck",
+          85
+        ],
+        [
+          "Bauhinia Forficata",
+          83
+        ],
+        [
+          "Elaeocarpus Grandis F. Muell.",
+          79
+        ],
+        [
+          "Thrinax Parviflora Sw.",
+          75
+        ],
+        [
+          "Ficus Virens Aiton (Ficus Infectoria Sensu Roxb. -Type Iii)",
+          75
+        ],
+        [
+          "Sapindus Laurifolius Vahl",
+          73
+        ],
+        [
+          "Vitex Negunda",
+          73
+        ],
+        [
+          "Semecarpus Anacardium L.F",
+          71
+        ],
+        [
+          "Diospyros Melanoxylon Roxb.",
+          71
+        ],
+        [
+          "Persea Macrantha (Nees) Kosterm",
+          69
+        ],
+        [
+          "Alstonia Scholaris (L.) R. Br.",
+          68
+        ],
+        [
+          "Annona Cherimola Mill.",
+          68
+        ],
+        [
+          "Heritiera Littoralis Dyrand.",
+          66
+        ],
+        [
+          "Tabebuia Pallida (Lindley) Miers",
+          65
+        ],
+        [
+          "Manihot Glaziovii Muell. -Arg",
+          63
+        ],
+        [
+          "Citharexylum Fruticosum L.",
+          63
+        ],
+        [
+          "Bauhinia Tomentosa L.",
+          61
+        ],
+        [
+          "Aleurites Moluccana (L.) Wild.",
+          59
+        ],
+        [
+          "Cordia Lutea Lam.",
+          58
+        ],
+        [
+          "Pterospermum Acerifolium (L.) Wild",
+          57
+        ],
+        [
+          "Centrolobium Microchaete (Mart. Ex Benth.)",
+          56
+        ],
+        [
+          "Acacia Catechu (L. F.) Wild.",
+          55
+        ],
+        [
+          "Plumeria Rubra L. Forma Lutea",
+          55
+        ],
+        [
+          "Cochlospermum Religiosum (L.)",
+          55
+        ],
+        [
+          "Livistona Rotundifolia (Lam.) Mart.",
+          53
+        ],
+        [
+          "Erythrina Suberosa Roxb.",
+          51
+        ],
+        [
+          "Hibiscus Tiliaceus L",
+          50
+        ],
+        [
+          "Barringtonia Asiatica (L.) Kurz",
+          50
+        ],
+        [
+          "Syzygium Samarangese (Bl.) Merr. & Perry",
+          50
+        ],
+        [
+          "Parkinsonia Aculeata L",
+          50
+        ],
+        [
+          "Grewia Asiatica Sensu Masters",
+          49
+        ],
+        [
+          "Diospyros Ebenum Koenig.",
+          48
+        ],
+        [
+          "Morus Alba L.",
+          42
+        ],
+        [
+          "Litchi Chinensis Sonn.",
+          42
+        ],
+        [
+          "Lonchocarpus Minimiflorus J.D. Smith",
+          41
+        ],
+        [
+          "Mesua Ferrea L",
+          40
+        ],
+        [
+          "Millettia Peguensis Ali",
+          40
+        ],
+        [
+          "Ficus Auriculata Lour.",
+          39
+        ],
+        [
+          "Cyrtostachys Renda Blume",
+          38
+        ],
+        [
+          "Castanospermum Australe Cunn. & Fraser",
+          36
+        ],
+        [
+          "Cassine Paniculata (Wight & Arn.)",
+          36
+        ],
+        [
+          "Guazuma Ulmifolia Lam",
+          34
+        ],
+        [
+          "Chukrasia Tabularis A. Juss.",
+          33
+        ],
+        [
+          "Dillenia Indica L",
+          31
+        ],
+        [
+          "Casuarina Equisetifolia L.",
+          30
+        ],
+        [
+          "Shorea Roxburghii G. Don",
+          30
+        ],
+        [
+          "Barringtonia Acutangula (L.)",
+          29
+        ],
+        [
+          "Mitragyna Parviflora (Roxb.) Korth.",
+          28
+        ],
+        [
+          "Ficus Infectoria Sensu Roxb. – Type 1",
+          28
+        ],
+        [
+          "Bauhinia Purpurata (Vieill.)",
+          26
+        ],
+        [
+          "Ficus Elastica Roxb. Ex Hornem",
+          25
+        ],
+        [
+          "Albizia Odoratissima (L.F.) Bent",
+          24
+        ],
+        [
+          "Cinnamomum Verum J.S. Presl",
+          24
+        ],
+        [
+          " ficus Drupacea ",
+          23
+        ],
+        [
+          "Lepisanthes Tetraphylla (Vahl) Radlk.",
+          22
+        ],
+        [
+          "Terminalia Crenulata Roth",
+          19
+        ],
+        [
+          "Syzygium Jambos (L.) Alston",
+          19
+        ],
+        [
+          "Plumeria Rubra L. Forma Rubra",
+          18
+        ],
+        [
+          "Schotia Brachypetala Sonder",
+          18
+        ],
+        [
+          "Cassia Spectabilis Dc.",
+          15
+        ],
+        [
+          "Acacia Chundra (Roxb. Ex Rottl.)",
+          15
+        ],
+        [
+          "Duadanga Grandiflora (Roxb. Ex Dc.) Walp.",
+          15
+        ],
+        [
+          "Drypetes Roxburghii (Wall.) Hurus",
+          14
+        ],
+        [
+          "Cananga Odorata (Lam.) Hook.F. & Thoms.",
+          13
+        ],
+        [
+          "Streblus Asper Lour",
+          11
+        ],
+        [
+          "Reutealis Trisperma (Blco.) Airy Shaw",
+          10
+        ],
+        [
+          "Syzygium Aromaticum (L.) Merr. & Perry",
+          9
+        ],
+        [
+          "Schleichera Oleosa (Lour.) Oken",
+          8
+        ],
+        [
+          "Salix Tetrasperma Roxb",
+          8
+        ],
+        [
+          "Aphanamixis Polystachya (Wall.)",
+          8
+        ],
+        [
+          "Ficus Infectoria Sensu Roxb.-Type Ii",
+          8
+        ],
+        [
+          "Trema Orientalis (L.) Blume",
+          6
+        ],
+        [
+          "Melaleuca Leucodendron L",
+          6
+        ],
+        [
+          "Limonia Acidissima L.",
+          5
+        ],
+        [
+          "Eriobotrya Japonica (Thunb.) Lindley",
+          3
+        ],
+        [
+          "Tecoma Castanifolia (D. Don) Melch",
+          3
+        ],
+        [
+          "Brownea Coccinea Jacq.",
+          3
+        ],
+        [
+          "Oncoba Spinosa Forssk",
+          1
+        ],
+        [
+          "Bolusanthus Speciosus (Bolus)",
+          1
+        ]
+      ]
+    },
+    {
+      "field": "KGISTreeID",
+      "present": 702109,
+      "absent": 0,
+      "null": 0,
+      "emptyString": 0,
+      "placeholderLike": 0,
+      "types": {
+        "string": 702109
+      },
+      "maxStringLength": 38,
+      "distinctCountAtLeast": 301,
+      "highCardinality": true,
+      "examples": [
+        "GN8030UG7XPI001",
+        "GN7025XA5QDE001",
+        "GN7025XA5RAN001",
+        "GN7025XA5RAD001",
+        "GN7025XA5RCF001"
+      ]
+    },
+    {
+      "field": "DepartmentCode",
+      "present": 702109,
+      "absent": 0,
+      "null": 0,
+      "emptyString": 0,
+      "placeholderLike": 0,
+      "types": {
+        "string": 702109
+      },
+      "numericLikeStrings": 702109,
+      "maxStringLength": 6,
+      "distinctCountAtLeast": 301,
+      "highCardinality": true,
+      "examples": [
+        "9",
+        "25",
+        "26",
+        "27",
+        "29"
+      ]
+    },
+    {
+      "field": "KGISCode",
+      "present": 702109,
+      "absent": 0,
+      "null": 0,
+      "emptyString": 0,
+      "placeholderLike": 0,
+      "types": {
+        "string": 702109
+      },
+      "maxStringLength": 37,
+      "distinctCountAtLeast": 301,
+      "highCardinality": true,
+      "examples": [
+        "29572055428031620000BBMPTREESENSU0006",
+        "29572055428031620000BBMPTREESENSU0022",
+        "29572055428031620000BBMPTREESENSU0023",
+        "29572055428031620000BBMPTREESENSU0024",
+        "29572055428031620000BBMPTREESENSU0026"
+      ]
+    },
+    {
+      "field": "KGISVillageID",
+      "present": 702109,
+      "absent": 0,
+      "null": 0,
+      "emptyString": 0,
+      "placeholderLike": 0,
+      "types": {
+        "number": 702109
+      },
+      "numeric": {
+        "count": 702109,
+        "min": 15068,
+        "max": 40216,
+        "mean": 17146.598627848383
+      },
+      "distinctCountAtLeast": 301,
+      "highCardinality": true,
+      "examples": [
+        "30092",
+        "15570",
+        "15405",
+        "15150",
+        "15071"
+      ]
+    },
+    {
+      "field": "Status",
+      "present": 702109,
+      "absent": 0,
+      "null": 18613,
+      "emptyString": 0,
+      "placeholderLike": 0,
+      "types": {
+        "number": 683496,
+        "null": 18613
+      },
+      "numeric": {
+        "count": 683496,
+        "min": 0,
+        "max": 1,
+        "mean": 0.9999487926776455
+      },
+      "distinctCount": 2,
+      "values": [
+        [
+          "1",
+          683461
+        ],
+        [
+          "0",
+          35
+        ]
+      ]
+    }
+  ],
+  "duplicates": {
+    "fullRecord": 0,
+    "sameCoordinates": 72926,
+    "byField": {
+      "OBJECTID": 0,
+      "KGISTreeID": 2502,
+      "DepartmentCode": 0,
+      "KGISCode": 688657,
+      "KGISVillageID": 701777
+    },
+    "candidateFieldsChecked": [
+      "OBJECTID",
+      "KGISTreeID",
+      "DepartmentCode",
+      "KGISCode",
+      "KGISVillageID"
+    ]
+  },
+  "firstFeaturePreview": {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": "[77.587892,12.9650589]"
+    },
+    "properties": {
+      "WardNumber": "110",
+      "OBJECTID": 9,
+      "TreeName": "Mangifera Indica L.",
+      "KGISTreeID": "GN8030UG7XPI001",
+      "DepartmentCode": "9",
+      "KGISCode": "29572055428031620000BBMPTREESENSU0006",
+      "KGISVillageID": 30092,
+      "Status": 1
+    }
+  }
+}

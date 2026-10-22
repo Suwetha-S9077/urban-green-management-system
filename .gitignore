@@ -1,0 +1,20 @@
+node_modules/
+dist/
+coverage/
+*.log
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+
+# Environment files: never commit real secrets
+.env
+.env.*
+!.env.example
+
+# Large raw dataset and generated reports/samples (remove these lines if you use Git LFS)
+backend/data/raw/*.geojson
+backend/data/reports/
+backend/data/sample/
+
+# Ignore large raw datasets
+**/data/raw/*.geojson
